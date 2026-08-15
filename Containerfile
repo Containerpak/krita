@@ -7,3 +7,4 @@ RUN apt-get update && \
     cpak-clean-junk
 
 COPY org.kde.krita.desktop /usr/share/applications/org.kde.krita.desktop
+COPY icon.png /usr/share/icons/hicolor/128x128/apps/krita.png
