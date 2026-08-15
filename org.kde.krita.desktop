@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Krita
+Comment=Create digital paintings, illustrations and animations.
+Exec=krita %F
+Icon=krita
+Terminal=false
+Categories=Graphics;2DGraphics;RasterGraphics;
