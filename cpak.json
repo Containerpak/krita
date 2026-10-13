@@ -4,7 +4,7 @@
   "name": "Krita",
   "description": "Create digital paintings, illustrations and animations.",
   "version": "6.0.1",
-  "image": "ghcr.io/containerpak/krita@sha256:5c30f1722a0f40e6dd43aa8fd5b158ee8d0a0a1ee1197463bc080387a0945229",
+  "image": "ghcr.io/containerpak/krita@sha256:70105b625af58530bb8c3573ef41bdfa52ac7e92d153120599d2de8a8dcf6154",
   "binaries": [
     "/usr/bin/krita"
   ],
